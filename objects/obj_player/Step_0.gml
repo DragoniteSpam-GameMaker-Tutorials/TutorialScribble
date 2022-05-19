@@ -1,3 +1,5 @@
+return;
+
 var dx = 0, dy = 0;
 
 running = false;

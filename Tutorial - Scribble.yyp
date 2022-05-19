@@ -94,7 +94,6 @@
     {"id":{"name":"__scribble_gen_5_finalize_bidi","path":"scripts/__scribble_gen_5_finalize_bidi/__scribble_gen_5_finalize_bidi.yy",},"order":5,},
     {"id":{"name":"__scribble_class_event","path":"scripts/__scribble_class_event/__scribble_class_event.yy",},"order":1,},
     {"id":{"name":"draw_text_scribble_ext","path":"scripts/draw_text_scribble_ext/draw_text_scribble_ext.yy",},"order":1,},
-    {"id":{"name":"Group_Code","path":"scripts/Group_Code/Group_Code.yy",},"order":32,},
     {"id":{"name":"scribble_font_add_from_sprite","path":"scripts/scribble_font_add_from_sprite/scribble_font_add_from_sprite.yy",},"order":2,},
     {"id":{"name":"__shd_scribble_msdf","path":"shaders/__shd_scribble_msdf/__shd_scribble_msdf.yy",},"order":5,},
     {"id":{"name":"spr_grass_tall","path":"sprites/spr_grass_tall/spr_grass_tall.yy",},"order":9,},
@@ -154,7 +153,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.625",
+    "IDEVersion": "2022.500.0.97",
   },
   "resourceVersion": "1.5",
   "name": "Tutorial - Scribble",
