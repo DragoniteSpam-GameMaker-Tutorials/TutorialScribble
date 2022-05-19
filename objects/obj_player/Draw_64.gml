@@ -7,7 +7,8 @@ if (talking) {
     draw_sprite_stretched(spr_nineslice, 0, 0, window_get_height() - 128, window_get_width(), 128);
     
     draw_set_font(fnt_game);
-    draw_text_colour(32, window_get_height() - 96, string_copy(talking.text, 1, talking_t), c_black, c_black, c_black, c_black, 1);
+    draw_set_color(c_black);
+    draw_text_scribble(32, window_get_height() - 96, talking.text, talking_t);
     
     if (talking_t < string_length(talking.text)) {
         talking_t++;
